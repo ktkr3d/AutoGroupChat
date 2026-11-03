@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: AutoGroupChat
+## Notes: Automatically switches chat to Group when joining a party or raid.
+## Author: ktkr3d
+## Version: v0.1.0
+## Category: Chat
+## IconTexture: Interface\Icons\Achievement_Reputation_Kirintor
+## SavedVariablesPerCharacter: AGC_Settings
+
+AutoGroupChat.lua
