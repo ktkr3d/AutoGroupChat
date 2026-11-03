@@ -1,4 +1,4 @@
-# [OnUseGear](https://github.com/ktkr3d/AutoGroupChat)
+# [AutoGroupChat](https://github.com/ktkr3d/AutoGroupChat)
 
 ## Introduction
 
